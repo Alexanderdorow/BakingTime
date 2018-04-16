@@ -1,7 +1,7 @@
 package com.alexanderdorow.bakingtime.utils;
 
 import com.alexanderdorow.bakingtime.BuildConfig;
-import com.alexanderdorow.bakingtime.shared.api.Api;
+import com.alexanderdorow.bakingtime.api.Api;
 
 import java.util.concurrent.TimeUnit;
 
